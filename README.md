@@ -88,6 +88,13 @@ vagrant halt            # stop all VMs
 vagrant destroy -f      # delete all VMs
 vagrant provision app01 # re-run provisioning on one VM
 ```
+## Screenshots
+
+<img width="1835" height="606" alt="3" src="https://github.com/user-attachments/assets/34dd8f38-ad7a-4df1-a109-4d894bb99bee" />
+<img width="1827" height="207" alt="1" src="https://github.com/user-attachments/assets/b83632fe-1ce8-4106-b982-494545a72023" />
+<img width="1832" height="815" alt="2" src="https://github.com/user-attachments/assets/f9df19c8-a423-4f0a-9578-4438c945c300" />
+<img width="970" height="563" alt="5" src="https://github.com/user-attachments/assets/7e1af400-6799-4a0d-8a09-719e418fd783" />
+<img width="1120" height="979" alt="4" src="https://github.com/user-attachments/assets/74e3a46c-d5ff-4d17-8507-a3815d88c3b4" />
 
 ## Author
 
